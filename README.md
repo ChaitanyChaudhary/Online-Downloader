@@ -2,7 +2,9 @@
 
 ## Description
 
-The Online-Downloader is a Python script that allows users to download files from a given URL. It uses the `requests` library to make HTTP requests and download the file in chunks. The progress of the download is displayed using the `tqdm` library.## Usage
+The Online-Downloader is a Python script that allows users to download files from a given URL. It uses the `requests` library to make HTTP requests and download the file in chunks. The progress of the download is displayed using the `tqdm` library.
+
+## Usage
 
 1. Enter the file URL when prompted.
 
