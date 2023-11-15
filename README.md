@@ -42,14 +42,6 @@ The Online-Downloader is a Python script that allows users to download files fro
 - requests library
 - tqdm library
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
-
 ## Author
 
 - Chaitany Chaudhary
